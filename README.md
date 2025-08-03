@@ -1,4 +1,4 @@
-# 🪨 Mining-ru for All - Discord Bot
+# 🪨 Mining-ru Discord Bot
 
 一款具備礦業經濟系統、每日簽到、AI 問答與 YouTube 影片下載功能的 Discord 機器人！
 [`Discord官方群組`](https://discord.gg/57BMuH6d3X)
