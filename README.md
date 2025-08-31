@@ -43,4 +43,4 @@
 
 1. 安裝依賴：
    ```bash
-   pip install discord cohere
+   pip install discord.py cohere pytz apscheduler 
